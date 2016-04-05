@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#A8B0C0'
+    - '#404820'
+    - '#808850'
+    - '#9DB14E'
+    - '#000000'
+  brandStrength: 0.739502
+  lightness: 0.294092
+  rhythmicContrast: 0.279838
+  saturation: 0.321918
+cta: {}
+layout_spectrum: 0.755137
+name: cbs
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.7507217700935637
