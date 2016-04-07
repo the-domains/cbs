@@ -6,10 +6,10 @@ color:
     - '#B0A898'
     - '#000000'
     - '#F0E8D8'
-  brandStrength: 0.741776
+  brandStrength: 0.003289
   lightness: 0.500822
   rhythmicContrast: 0.279838
-  saturation: 1
+  saturation: 0.506579
 cta: {}
 layout_spectrum: 0.578125
 name: cbs
