@@ -1,4 +1,19 @@
-analytics: {}
+name: cbs
+favicon: null
+layout_spectrum: 0.75
+typography_spectrum: 0.750721
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#000000'
@@ -8,11 +23,9 @@ color:
     - '#F0E8D8'
   brandStrength: 0.508562
   lightness: 0.500822
-  rhythmicContrast: 0.502997
   saturation: 0.506579
-cta: {}
-layout_spectrum: 0.018836
-name: cbs
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.750721
+  rhythmicContrast: 0.502997
+purpose:
+  - name: null
+    item: null
+    url: null
