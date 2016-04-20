@@ -1,6 +1,6 @@
 name: cbs
 favicon: null
-layout_spectrum: 0.24029
+layout_spectrum: 0.73893
 typography_spectrum: 0.750721
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#b7b7b7'
     - '#a16b00'
     - '#fdfe00'
-  brandStrength: 0.125
+  brandStrength: 0.0625
   lightness: 0
   saturation: 0.1875
   rhythmicContrast: 0.25
